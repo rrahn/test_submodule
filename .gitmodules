@@ -1,0 +1,6 @@
+[submodule "include/test_src"]
+	path = include/test_src
+	url = git@github.com:rrahn/test_source.git
+[submodule "util/boost"]
+	path = util/boost
+	url = https://github.com/boostorg/test.git
